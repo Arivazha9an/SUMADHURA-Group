@@ -4,34 +4,38 @@ A Flutter Android application for front-desk and security staff. It supports vis
 
 ## Screenshots
 
-Add screenshots of the running application to the `screenshots` folder using these filenames.
-
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Visitor List
-![Visitor List](screenshots/visitor_list.png)
-
-### Visitor Registration
-![Visitor Registration](screenshots/visitor_registration.png)
-
-### Visitor Details and QR Code
-![Visitor Details](screenshots/visitor_details.png)
-
-### Visitor Details 2 and QR Code
-![Visitor Details 2](screenshots/visitor_details2.png)
-
-### QR Scanner
-![QR Scanner](screenshots/qr_scanner.png)
-
-### Download QR
-![Download QR](screenshots/download_qr.png)
-
-### Edit Visitor
-![Edit Visitor](screenshots/edit_visitor.png)
-
-### Share QR
-![Share QR](screenshots/share_qr.png)
+<table>
+  <tr>
+    <td align="center"><b>Dashboard</b></td>
+    <td align="center"><b>Visitor List</b></td>
+    <td align="center"><b>Registration</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/dashboard.png" width="220"></td>
+    <td><img src="screenshots/visitor_list.png" width="220"></td>
+    <td><img src="screenshots/visitor_registration.png" width="220"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Visitor Details</b></td>
+    <td align="center"><b>Visitor Details 2</b></td>
+    <td align="center"><b>QR Scanner</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/visitor_details.png" width="220"></td>
+    <td><img src="screenshots/visitor_details2.png" width="220"></td>
+    <td><img src="screenshots/qr_scanner.png" width="220"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Download QR</b></td>
+    <td align="center"><b>Edit Visitor</b></td>
+    <td align="center"><b>Share QR</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/download_qr.png" width="220"></td>
+    <td><img src="screenshots/edit_visitor.png" width="220"></td>
+    <td><img src="screenshots/share_qr.png" width="220"></td>
+  </tr>
+</table>
 
 
 
