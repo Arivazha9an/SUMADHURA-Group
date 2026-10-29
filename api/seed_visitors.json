@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Rahul Sharma",
+    "mobile": "9876543210",
+    "email": "rahul.sharma@example.com",
+    "visitor_type": "Customer",
+    "project": "Project A",
+    "purpose": "Site visit for 3 BHK unit",
+    "status": "Registered",
+    "created_minutes_ago": 20,
+    "check_in_minutes_ago": null,
+    "check_out_minutes_ago": null
+  },
+  {
+    "name": "Meera Iyer",
+    "mobile": "9845012345",
+    "email": null,
+    "visitor_type": "Customer",
+    "project": "Project B",
+    "purpose": "Agreement signing",
+    "status": "Checked In",
+    "created_minutes_ago": 95,
+    "check_in_minutes_ago": 60,
+    "check_out_minutes_ago": null
+  },
+  {
+    "name": "Arun Kumar",
+    "mobile": "9790011223",
+    "email": "arun@buildmart.example.com",
+    "visitor_type": "Vendor",
+    "project": "Project C",
+    "purpose": "Deliver tile samples",
+    "status": "Checked Out",
+    "created_minutes_ago": 180,
+    "check_in_minutes_ago": 165,
+    "check_out_minutes_ago": 120,
+    "previous_visits": [
+      {
+        "project": "Project C",
+        "purpose": "Quotation discussion",
+        "created_minutes_ago": 1500,
+        "check_in_minutes_ago": 1490,
+        "check_out_minutes_ago": 1430
+      }
+    ]
+  },
+  {
+    "name": "Priya Nair",
+    "mobile": "9003456789",
+    "email": null,
+    "visitor_type": "Other",
+    "project": "Project A",
+    "purpose": "Interview for site coordinator role",
+    "status": "Registered",
+    "created_minutes_ago": 5,
+    "check_in_minutes_ago": null,
+    "check_out_minutes_ago": null
+  }
+]

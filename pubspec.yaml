@@ -1,0 +1,31 @@
+name: visitor_management
+description: Visitor management app for front-desk and security staff (Flutter, BLoC, REST API, QR).
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^9.1.0
+  equatable: ^2.0.7
+  dio: ^5.8.0
+  qr_flutter: ^4.1.0
+  # The scanner code only uses the API surface shared by 6.x and 7.x.
+  mobile_scanner: '>=6.0.2 <8.0.0'
+  # Gallery picker for "Upload QR image" (Flutter team package).
+  image_picker: ^1.1.2
+  # Share the visitor's QR pass and save it to the gallery.
+  share_plus: '>=10.1.0 <11.0.0'
+  path_provider: ^2.1.5
+  gal: ^2.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
