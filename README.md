@@ -12,7 +12,7 @@ A Flutter Android application for front-desk and security staff. It supports vis
   </tr>
   <tr>
     <td><img src="screenshots/dashboard.png" width="220"></td>
-    <td><img src="screenshots/visitor_list.png" width="220"></td>
+    <td><img src="screenshots/vistor_list.png" width="220"></td>
     <td><img src="screenshots/visitor_registration.png" width="220"></td>
   </tr>
   <tr>
@@ -22,7 +22,7 @@ A Flutter Android application for front-desk and security staff. It supports vis
   </tr>
   <tr>
     <td><img src="screenshots/visitor_details.png" width="220"></td>
-    <td><img src="screenshots/visitor_details2.png" width="220"></td>
+    <td><img src="screenshots/vistor_details2.png" width="220"></td>
     <td><img src="screenshots/qr_scanner.png" width="220"></td>
   </tr>
   <tr>
